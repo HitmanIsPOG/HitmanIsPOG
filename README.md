@@ -1,3 +1,3 @@
-👋 Hi, I’m HitmanIsPOG
+👋 Hi, I’m Hitman
 
 Enjoy My Plugins Code. =)
