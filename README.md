@@ -22,6 +22,7 @@ Here are a few of the cool things I'm working on:
 ## 🌸 How to Reach Me 🌸
 
 - 🌸 [Email](mailto:hitman@sakurastudios.co)
+- 🌸 [Discord](discord.gg/sakurapvp)
 
 Feel free to follow me here on GitHub to stay updated with my latest projects!
 
